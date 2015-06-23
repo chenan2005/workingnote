@@ -1,0 +1,26 @@
+day 1
+
+info：
+
+	公司通用密码  abcd.1234
+	wifi: tipcat-ap-b  或者 tipcat-ap-c 使用公用密码
+	windows登陆用户 chenan  公用密码
+	公司内部文件共享服务器：192.168.8.250
+	版本管理软件svn
+
+install:
+	chrome
+	git
+	迅雷
+	百度输入法
+	daemon tools lite
+	ie10
+	vs 2013
+	unity 5.0
+
+learning:
+	
+	u3d shader http://onevcat.com/2013/07/shader-tutorial-1/
+
+work：
+	
