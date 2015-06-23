@@ -6,7 +6,13 @@ info：
 	wifi: tipcat-ap-b  或者 tipcat-ap-c 使用公用密码
 	windows登陆用户 chenan  公用密码
 	公司内部文件共享服务器：192.168.8.250
+	公司内部邮箱：http://exmail.qq.com/  陈安<an.chen@mail.tipcat.com>   默认密码 1234.abcd（已修改为个人常用密码）
 	版本管理软件svn
+
+	游戏svn： 
+		设计文档：svn://192.168.8.253/poc/Design
+		代码：svn://192.168.8.253/poc/Program
+		资源：svn://192.168.8.253/poc/Alpha
 
 install:
 	chrome
@@ -16,7 +22,7 @@ install:
 	daemon tools lite
 	ie10
 	vs 2013
-	unity 5.0
+	unity 5.1
 
 learning:
 	
